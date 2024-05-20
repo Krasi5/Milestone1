@@ -2,7 +2,7 @@
  
  <h1 align="center">GymPlus</h1>
 
-[View the live project here.]()
+[View the live project here.](https://krasi5.github.io/Milestone1/)
 
 GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a Web Development course. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential users.
 
