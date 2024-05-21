@@ -262,7 +262,17 @@ margin-bottom: 150px;
 }
 
 /*--Testimonials--*/
-
+..testimonials-appear{
+    height: 100vh;
+    background-color: no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    
 .testimonials-box {
     position: relative;
     display: inline;
