@@ -163,7 +163,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate al
 
 ### Known Bugs
 
-On some tablets and mobile phones there was a white gap between the navigation bar and the hero image. The issue was fixed with a snippet:[perfect-full-page-background-image/](https://css-tricks.com/)
+On some tablets and mobile phones there was a white gap between the navigation bar and the hero image. The issue was fixed with a snippet:[perfect-full-page-background-image/(https://css-tricks.com/perfect-full-page-background-image/)]<img src="assets/documents/background_image.jpg">
 
 ## Credits
 
