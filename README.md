@@ -5,7 +5,7 @@
 [View the live project here.](https://krasi5.github.io/Milestone1/)
 
 GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a Web Development course. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential users.
-https://ui.dev/amiresponsive?url=https://krasi5.github.io/Milestone1/
+<h2 text-align="center"><img src="assets/documents/Site_image.jpg"></h2>
 
 ## User Experience (UX)
 
@@ -41,9 +41,17 @@ https://ui.dev/amiresponsive?url=https://krasi5.github.io/Milestone1/
 
 - ### Wireframes
 
-   -  Home Page Wireframe - [View](https://github.com/)
+   -  Home Page Wireframe - 
+      <img src="assets/documents/Desktop_frame.jpg">
+      <img src="assets/documents/Desktop_frame2.jpg">
+      <img src="assets/documents/Desktop_frame3.jpg">
 
-   -  Mobile Wireframe - [View](https://github.com/)
+
+   -  Mobile Wireframe - 
+
+   <img src="assets/documents/Mobile_frame1.jpg">
+   <img src="assets/documents/Mobile_frame2.jpg">
+
 
 ## Features
 
@@ -108,8 +116,8 @@ The site was created to be responsive on various devices: mobile phone, tablet, 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate all the pages in the project to ensure no syntax errors exist.
 
-- [W3C Markup Validator](https://validator.w3.org/)
--  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [W3C Markup Validator]<img src="assets/documents/htmlval.jpg">
+-  [W3C CSS Validator]<img src="assets/documents/CSSVal.jpg">
 
 
 ### Testing User Stories from User Experience (UX) Section
@@ -171,11 +179,14 @@ On some tablets and mobile phones there was a white gap between the navigation b
 
 README example recommended by my mentor [github](https://github.com/Chikayo-k/pp1-hotspring-ck/blob/main/README.md)
 
+I also used as a guide my tutor's README file [github](https://github.com/RachelFurlong-dev/freelance-web-design-M1/blob/main/README.md)
+
+
 ### Acknowledgements
 
- -  My Mentor for continuous helpful feedback.
+ -  My Mentor Excellence Ilesanmi for continuous helpful feedback.
 
- -  My Tutor at Ashford College for her empowering support.
+ -  My Tutor Rachel Furlong for her empowering support.
 
 
 
