@@ -1,11 +1,14 @@
 # Milestone1
  
- <h1 align="center">GymPlus</h1>
+README.md
+<h1 align="center">GymPlus</h1>
 
 [View the live project here.](https://krasi5.github.io/Milestone1/)
 
 GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a Web Development course. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential users.
+
 <h2 text-align="center"><img src="assets/documents/Site_image.jpg"></h2>
+
 
 ## User Experience (UX)
 
@@ -42,16 +45,14 @@ GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a We
 - ### Wireframes
 
    -  Home Page Wireframe - 
-      <img src="assets/documents/Desktop_frame.jpg">
-      <img src="assets/documents/Desktop_frame2.jpg">
-      <img src="assets/documents/Desktop_frame3.jpg">
+   <img src="assets/documents/Desktop_frame.jpg">
+   <img src="assets/documents/Desktop_frame2.jpg">
+   <img src="assets/documents/Desktop_frame3.jpg">
 
 
-   -  Mobile Wireframe - 
 
-   <img src="assets/documents/Mobile_frame1.jpg">
-   <img src="assets/documents/Mobile_frame2.jpg">
 
+   -  Mobile Wireframe - <img src="assets/documents/Mobile_frame1.jpg"><img src="assets/documents/Mobile_frame2.jpg">
 
 ## Features
 
@@ -68,21 +69,27 @@ The aim is to provide a range of physical exercises, in a friendly environment w
     Navigation Bar 
    
 It consists of a logo sign and three pages - Home, Features, and Testimonials plus the Sign In button, which gives a connection to the required information. It is responsive to different viewports and  accommodates the minimal space. The bar changes to a hamburger icon in small devices and collapses to allow access. I wanted and tried to change it to gold color, however I did not manage to overcome the anchor tag to do it.
-
+<img src="assets/documents/navbar.jpg">
 
 Landing page
 
 It consists of a picture with the motto, which conveys the purpose of the site. 
 There is an dicount advertise, encouraging the visitors to have a trial. The Sign Up button open a box for personal details needed .
-  
+Scroling down follows an explanation of the purpose people's opinion and links to gym's features and testimonials.
+
+  <img src="assets/documents/home_page1.jpg">
+  <img src="assets/documents/home_page2.jpg">
+  <img src="assets/documents/home_page3.jpg">
 
 Features page 
 
 It represents the services provided, divided into four sections. A picture was used to provide the corresponding color and make the page more interesting. 
+<img src="assets/documents/feature_page.jpg">
 
 Testimonials 
 
-The page presents the opinions of four people. The text was wrapped in rectangles in an order different than the previous page which was a problem in a smaller size as the height was set at 60vh.
+The page presents the opinions of four people. The text was wrapped in rectangles in an order different than the Features page 
+<img src="assets/documents/testimonials_page.jpg">
 
 
 Responsivness
@@ -117,8 +124,7 @@ The site was created to be responsive on various devices: mobile phone, tablet, 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate all the pages in the project to ensure no syntax errors exist.
 
 - [W3C Markup Validator]<img src="assets/documents/htmlval.jpg">
-- [W3C CSS Validator]<img src="assets/documents/CSSVal.jpg">
-- [Google Lighthouse]<img src="assets/documents/Google_Lighthouse.jpg">
+-  [W3C CSS Validator]<img src="assets/documents/CSSVal.jpg">
 
 
 ### Testing User Stories from User Experience (UX) Section
@@ -164,7 +170,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate al
 
 ### Known Bugs
 
-On some tablets and mobile phones there was a white gap between the navigation bar and the hero image. The issue was fixed with a snippet:[perfect-full-page-background-image/(https://css-tricks.com/perfect-full-page-background-image/)]<img src="assets/documents/background_image.jpg">
+On some tablets and mobile phones there was a white gap between the navigation bar and the hero image. The issue was fixed with a snippet:[perfect-full-page-background-image/](<https://css-tricks.com/perfect-full-page-background-image/)<img src="assets/documents/background_image.jpg">
 
 ## Credits
 
@@ -180,14 +186,8 @@ On some tablets and mobile phones there was a white gap between the navigation b
 
 README example recommended by my mentor [github](https://github.com/Chikayo-k/pp1-hotspring-ck/blob/main/README.md)
 
-I also used as a guide my tutor's README file [github](https://github.com/RachelFurlong-dev/freelance-web-design-M1/blob/main/README.md)
-
-
 ### Acknowledgements
 
  -  My Mentor Excellence Ilesanmi for continuous helpful feedback.
 
  -  My Tutor Rachel Furlong for her empowering support.
-
-
-
