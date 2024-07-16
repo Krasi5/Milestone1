@@ -12,11 +12,8 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 </head>
 <body>
- 
- <!--Navbar-->
  <nav class="navbar navbar-dark navbar-expand-sm">
   <a class="navbar-brand" href="#">GymPlus</a>
-  
   <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span></button>  
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -45,23 +42,86 @@
             <p>Varieties of activities for children to have fun, enjoy, and learn while they play </p></div>
         </div>
       </div>
-    <footer class="container">
-        <div class="container-fluid footer-container">
-       <ul>
-        <li class="list-inline-item">
-      <a target="_blank" href="https://www.facebook.com"></a>
-      <i class="fab fa-facebook"></i></li>
-      <li class="list-inline-item">
-      <a target="_blank" href="https://www.twitter.com"></a>
-      <i class="fab fa-twitter"></i></li>
-      <li class="list-inline-item">
-      <a target="_blank" href="https://www.instagram.com"></a>
-      <i class="fab fa-instagram"></i></li>
-      <li class="list-inline-item">
-      <a target="_blank" href="https://www.youtube.com"></a>
-      <i class="fab fa-youtube"></i></li>
-      </ul>
+   <footer class="container">
+  <div class="container-fluid footer-container">
+ <ul>
+  <li class="list-inline-item">
+<a target="_blank" href="https://www.facebook.com"><i class="fab fa-facebook"></i> <span class="sr-only">Facebook</span></a>
+</li>
+<li class="list-inline-item">
+<a target="_blank" href="https://www.twitter.com"><i class="fab fa-twitter" ></i> <span class="sr-only">Twitter</span></a>
+</li>
+<li class="list-inline-item">
+<a target="_blank" href="https://www.instagram.com"><i class="fab fa-instagram"></i> <span class="sr-only">Instagram</span></a>
+</li>
+<li class="list-inline-item">
+<a target="_blank" href="https://www.youtube.com" ><i class="fab fa-youtube"></i> <span class="sr-only">YouTube</span></a>
+</li>
+</ul>
+</div>
+</footer>
+<div class="modal" tabindex="-1" role="dialog" id="SignInModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Welcome to GymPlus</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
-      </footer>    
+      <div class="modal-body">
+        <form action="https://formdump.codeinstitute.net/" method="post">
+          <div class="form-group">
+            <label for="InputEmail2">Email address</label>
+            <input type="email" class="form-control" id="InputEmail2" aria-describedby="emailHelp" placeholder="Enter email" required name="Email address" value="email_address">
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" id="password" name="Password" value="password" placeholder="Password" required>
+          </div>
+          <div class="form-group form-check">
+            <label class="form-check-label" for="check">Remember me</label>
+            <input type="checkbox" checked="checked" id="check">
+          </div>
+          <button type="submit" class="btn btn-success">Sign In</button>
+          <span class="psw"><a href="#">Forgot password?</a></span>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal" tabindex="-1" role="dialog" id="SignUpModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Sign Up to GymPlus</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form action="https://formdump.codeinstitute.net/" method="get">  
+        <div class="form-group">
+            <label for="fullName">Full Name</label>
+            <input type="text" class="form-control" id="fullName" placeholder="Full Name" name="Full Name"  required value="full_name">
+          </div>
+          <div class="form-group">
+            <label for="InputEmail1">Email address</label>
+            <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required name="Email address" value="email_address">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" id="Password" name="Password" value="password" placeholder="Password" required>
+          </div>
+          <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>   
 </body>
 </html>
