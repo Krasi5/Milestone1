@@ -7,7 +7,7 @@ README.md
 
 GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a Web Development course. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential users.
 
-<h2 text-align="center"><img src="assets/documents/Site_image.jpg"></h2>
+<h2 text-align="center"><img src="assets/documents/site_image.jpg"></h2>
 
 
 ## User Experience (UX)
@@ -45,14 +45,14 @@ GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a We
 - ### Wireframes
 
    -  Home Page Wireframe - 
-   <img src="assets/documents/Desktop_frame.jpg">
-   <img src="assets/documents/Desktop_frame2.jpg">
-   <img src="assets/documents/Desktop_frame3.jpg">
+   <img src="assets/documents/desktop_frame.jpg">
+   <img src="assets/documents/desktop_frame2.jpg">
+   <img src="assets/documents/desktop_frame3.jpg">
 
 
 
 
-   -  Mobile Wireframe - <img src="assets/documents/Mobile_frame1.jpg"><img src="assets/documents/Mobile_frame2.jpg">
+   -  Mobile Wireframe - <img src="assets/documents/mobile_frame1.jpg"><img src="assets/documents/mobile_frame2.jpg">
 
 ## Features
 
@@ -124,7 +124,7 @@ The site was created to be responsive on various devices: mobile phone, tablet, 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate all the pages in the project to ensure no syntax errors exist.
 
 - [W3C Markup Validator]<img src="assets/documents/htmlval.jpg">
--  [W3C CSS Validator]<img src="assets/documents/CSSVal.jpg">
+-  [W3C CSS Validator]<img src="assets/documents/cssval.jpg">
 
 
 ### Testing User Stories from User Experience (UX) Section
@@ -166,7 +166,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate al
 ### Further Testing
 
 -  The website was tested on Google Chrome and Microsoft Edge browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, mobile phones and tablets.
+-  The Website was tested on Google Lighthouse:
+-  <img src="assets/documents/google_lighthouse.jpg">
+-   The website was viewed on a variety of devices such as Desktop, Macbook, iPhone 12 Pro, Samsung Galaxy S8, NestHub Max, Asus Zenbook Fold.
 
 ### Known Bugs
 
