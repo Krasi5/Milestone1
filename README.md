@@ -84,12 +84,12 @@ Scroling down follows an explanation of the purpose people's opinion and links t
 Features page 
 
 It represents the services provided, divided into four sections. A picture was used to provide the corresponding color and make the page more interesting. 
-<img src="assets/documents/feature_page.jpg">
+<img src="assets/documents/page_features.jpg">
 
 Testimonials 
 
 The page presents the opinions of four people. The text was wrapped in rectangles in an order different than the Features page 
-<img src="assets/documents/testimonials_page.jpg">
+<img src="assets/documents/page_testimonials.jpg">
 
 
 Responsivness
