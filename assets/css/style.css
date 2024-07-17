@@ -3,32 +3,25 @@ body {
     font-family: Noto-Serif, sans-serif; 
 }
 /*---header--*/
-
 .navbar .navbar-toggler
 {  text-decoration: none;
     border-color: gold;
 }
-
 .navbar .navbar-brand {
     color: gold;
 }
-
 .navbar .navbar-brand:hover{
     color: darkgoldenrod;
 }
-
-
 .navbar .nav-item {
     color: gold;
 }
  .nav-link:hover {
     color: darkgoldenrod; 
 }
-
 .navbar-toggler-icon{
     color: gold;
 }
-
 .navbar-nav {
     margin-bottom: 0;
     border: 0;
@@ -42,7 +35,6 @@ margin-bottom: 40px;
 .navbar-collapse {
     background-color: rgb(67, 67, 67);
 }
-
 #navbarNavDropdown{
     background-color: rgb(67, 67, 67);
     color: gold;
@@ -50,7 +42,6 @@ margin-bottom: 40px;
 .justify-content-end {
     background-color: rgb(67, 67, 67);
 }
-
 .navbar {
     text-decoration: none;
     margin-bottom: 0;
@@ -58,21 +49,16 @@ margin-bottom: 40px;
     width: 100%;
     background-color: rgb(67, 67, 67);
 }
-
-
-
 /*-------------------------Button*/
 .btn--gold {
     border: 2px;
     border-color: rgb(69,69,69);
     background-color: gold;
-    color:rgb(69,69,69); 
-  
+    color:rgb(69,69,69);  
 }
 .btn-sign{
     border-radius: 30px;
-    color:rgb(69,69,69); 
-    
+    color:rgb(69,69,69);     
 }
 .btn--gray{
     color: rgb(54, 53, 53);
@@ -88,7 +74,6 @@ text-transform: uppercase;
   background-color: gold;
    text-transform: uppercase;
 }
-
 .btn--test2{
     margin-top: 5%;
     border-width: 3px;
@@ -96,7 +81,6 @@ text-transform: uppercase;
   background-color: gray;
    text-transform: uppercase;
 }
-
 .talks  a {
     color: gold;
 }
@@ -124,41 +108,31 @@ background-color: rgb(116, 114, 114);
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
-    justify-content: center;
-   
+    justify-content: center;  
 }
 /*---Stackoverflow---*/
-
 .quodrant{
     width: 100%;
     height: 100vh;
     margin-top: 150px;
     padding: 0;
-    text-align: center;
-   
+    text-align: center;   
 } 
-
 .quodrant-container{
 width: 100%;
-
 }
-
 .qtop,
 .qbottom{
     width: 90%;
     height: 40vh;
 }
-
-
 .quodrant1,
 .quodrant2,
 .quodrant3,
 .quodrant4{
-    display: inline;
-   
+    display: inline;  
     width: 40%;
     height: 80%;
     border-color: gray;
@@ -171,24 +145,19 @@ width: 100%;
     float: left;
     margin-right: 20px;
 }
-
 .quodrant1,
 .quodrant3{
     float: right;
     margin-left: 20px;
 }
-
-
 /*--Testimonials float: right;.container-wrapper--*/
 .jumbotron-features{
     background:gold ;
     height: 75vh;
     text-decoration: gray;
-    border-radius: 30px;
-   
+    border-radius: 30px;  
 }
 .text-p{
-  
    font-weight: 300;
 }
 .guidance{
@@ -197,13 +166,11 @@ width: 100%;
     margin-top: 40px;
     margin-bottom: 70px;
 }
-
 .jumbotron-testimonials{
     background:gray ;
     height: 65vh;
     text-decoration: gold;
-    border-radius: 30px;
-      
+    border-radius: 30px;     
 }
 .testimonial2{
     height: 90vh;
@@ -228,8 +195,6 @@ width: 100%;
     background-color: gray;
     color: gold;
     margin-bottom: 35px;
-
-   
 }
 .container-wrapper{
     width: 100%;
@@ -237,19 +202,13 @@ width: 100%;
     background-color: gold;
 }
 /*--Footer--*/
-
 .mb-3 {
     background-color: gray;
 }
-
-
-
-
 /*-------------------------Button*/
 .btn--gold {
     background-color: gold;
-    color: gray;
-   
+    color: gray;  
 }
 .jumbotron {
     background: transparent;
@@ -263,12 +222,9 @@ margin-bottom: 150px;
 margin-bottom: 150px;
 }
 .col-md-auto{
-    background-color: grey;
-    
+    background-color: grey;    
 }
 /*---Stackoverflow---*/
-
-
 .feature-container{
     height: 90vh;
     background:  url("../images/pexels-goumbik-669576.jpg") no-repeat bottom right fixed;
@@ -286,11 +242,9 @@ margin-bottom: 150px;
     margin-top: 150px;
     padding: 0;
     text-align: center;
-   
 }
 .text {
     text-align: center;
-
    }
 .text-feature{
     text-align: center;
@@ -298,7 +252,6 @@ margin-bottom: 150px;
     padding-left: 10%;
     padding-right: 10%;
     }
-
 .w-100 {
     height: 5px;
 }
@@ -307,8 +260,6 @@ margin-bottom: 150px;
     width: 90%;
     height: 30vh;
 }
-
-
 .quodrant1,
 .quodrant2,
 .quodrant3,
@@ -327,9 +278,7 @@ margin-bottom: 150px;
     margin-left: 10px;
     margin-right: 10px;
 }
-
 /*--Testimonials--*/
-
 .testimonials-box {
     position: relative;
     display: inline;
@@ -340,11 +289,9 @@ margin-bottom: 150px;
     border-radius: 30px;
     margin: 2%;
     background-color: gray;
-    color: gold;
-   
+    color: gold;   
 }
 .feature-box{
- 
     position: relative;
     display: inline;
     float: right;
@@ -352,27 +299,20 @@ margin-bottom: 150px;
     height: 220px;
     text-align: center;
     border-color: gray;
-    border-radius: 30px;
-
-    
+    border-radius: 30px; 
     margin: 3%;
     background-color: gold;
 }
-   
-       
-
 @media screen and (min-width: 480px){
     .feature-box,
     .testimonials-box {
         font-weight: 300;
     }
 }
-
     @media screen and (min-width: 480px){
     .text{
         margin-top: 15%;
     }
-
 }
 .mr-3 {
     object-fit: cover;
@@ -384,18 +324,14 @@ margin-bottom: 150px;
 .text-testimonials {
     height: 100px;
 }
-
-  
  .testimonials-container{
-
     width: 100%;
- 
     background-color: gold;
     padding-top: 50px;
     padding-bottom: 80px;
 }
 .testimonials-appear{
-    height: 90vh;
+    height: 100vh;
     background:  url("../images/gym-2649824_1920.jpg") no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -404,10 +340,8 @@ margin-bottom: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
-   
 }
 /*--Footer--*/
-
   .footer-container {
     position: fixed;
     left: 0;
@@ -418,7 +352,6 @@ margin-bottom: 150px;
     color: gold;
     text-align: center;
   }
-
  .list-inline-item {
     margin: 7px;
  }
