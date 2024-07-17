@@ -118,7 +118,8 @@ The site was created to be responsive on various devices: mobile phone, tablet, 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate all the pages in the project to ensure no syntax errors exist.
 
 - [W3C Markup Validator]<img src="assets/documents/htmlval.jpg">
--  [W3C CSS Validator]<img src="assets/documents/cssval.jpg">
+- [W3C CSS Validator]<img src="assets/documents/cssval.jpg">
+- [Beautify Tools](https://beautifytools.com/)
 
 
 ### Testing User Stories from User Experience (UX) Section
