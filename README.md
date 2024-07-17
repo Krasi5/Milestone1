@@ -9,7 +9,6 @@ GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a We
 
 <h2 text-align="center"><img src="assets/documents/site_image.jpg"></h2>
 
-
 ## User Experience (UX)
 
    ### User stories
@@ -49,9 +48,6 @@ GymPlus is a fitness-oriented website, created as a Milestone Project 1 for a We
    <img src="assets/documents/desktop_frame2.jpg">
    <img src="assets/documents/desktop_frame3.jpg">
 
-
-
-
    -  Mobile Wireframe - <img src="assets/documents/mobile_frame1.jpg"><img src="assets/documents/mobile_frame2.jpg">
 
 ## Features
@@ -78,8 +74,6 @@ There is an dicount advertise, encouraging the visitors to have a trial. The Sig
 Scroling down follows an explanation of the purpose people's opinion and links to gym's features and testimonials.
 
   <img src="assets/documents/home_page1.jpg">
-  <img src="assets/documents/home_page2.jpg">
-  <img src="assets/documents/home_page3.jpg">
 
 Features page 
 
