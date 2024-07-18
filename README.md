@@ -130,7 +130,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate al
     2. The main points are made immediately with the moto text and hero image.
     3. The user has option to scroll down or click social media's buttons.
       
-      
+     <img src="assets/documents/home_page1.jpg">
+     
 2. As a First Time Visitor, I want to be able to easily navigate through the site and find information about the service they provide.
      
      The user has option to scroll down or click social media's buttons.
